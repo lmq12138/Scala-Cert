@@ -13,7 +13,7 @@ dic = [
 
 peers = []
 
-count = 0
+count = 0 \\
 
 def init_peers():
     for peer in dic:
